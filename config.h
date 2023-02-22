@@ -13,7 +13,7 @@ static const Block blocks[] = {
 	/* {"",	"sb-price xmr \"Monero\" 🔒",			9000,	24}, */
 	/* {"",	"sb-price eth Ethereum 🍸",	9000,	23}, */
 	/* {"",	"sb-price btc Bitcoin 💰",				9000,	21}, */
-	{"",	"sb-torrent",	20,	7},
+	// {"",	"sb-torrent",	20,	7},
 	/* {"",	"sb-memory",	10,	14}, */
 	/* {"",	"sb-cpu",		10,	18}, */
 	/* {"",	"sb-moonphase",	18000,	17}, */
